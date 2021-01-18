@@ -1,0 +1,13 @@
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\bin\Debug\netcoreapp3.1\CaçaAoTesouro.exe
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\bin\Debug\netcoreapp3.1\CaçaAoTesouro.deps.json
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\bin\Debug\netcoreapp3.1\CaçaAoTesouro.runtimeconfig.json
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\bin\Debug\netcoreapp3.1\CaçaAoTesouro.runtimeconfig.dev.json
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\bin\Debug\netcoreapp3.1\CaçaAoTesouro.dll
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\bin\Debug\netcoreapp3.1\CaçaAoTesouro.pdb
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\obj\Debug\netcoreapp3.1\CaçaAoTesouro.csprojAssemblyReference.cache
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\obj\Debug\netcoreapp3.1\CaçaAoTesouro.AssemblyInfoInputs.cache
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\obj\Debug\netcoreapp3.1\CaçaAoTesouro.AssemblyInfo.cs
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\obj\Debug\netcoreapp3.1\CaçaAoTesouro.csproj.CoreCompileInputs.cache
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\obj\Debug\netcoreapp3.1\CaçaAoTesouro.dll
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\obj\Debug\netcoreapp3.1\CaçaAoTesouro.pdb
+C:\Users\z003zaxb\source\repos\CaçaAoTesouro\obj\Debug\netcoreapp3.1\CaçaAoTesouro.genruntimeconfig.cache

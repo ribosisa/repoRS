@@ -1,0 +1,282 @@
+{
+  "Shows": [
+    {
+      "Titulo": "Friends",
+      "TipoShow": "serie",
+      "Ano": 1998,
+      "IdShow": 0,
+      "CodPais": "US",
+      "ListaAtores": [
+        {
+          "Nome": "Brad Pitt",
+          "Genero": "M",
+          "Nickname": "Pitt"
+        }
+      ],
+      "ListaTemporadas": [
+        {
+          "Nome": "Season 1",
+          "Numero": 1,
+          "IdTemp": 1,
+          "ListaEpisodios": [
+            {
+              "Nome": "The One Where Monica Gets a Roommate",
+              "Numero": 1,
+              "IdTemp": 1,
+              "Data": "1998-10-29T00:00:00+00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Titulo": "Star Wars: A New Hope",
+      "TipoShow": "filme",
+      "Ano": 1977,
+      "IdShow": 1,
+      "CodPais": "US",
+      "ListaAtores": [],
+      "ListaTemporadas": null
+    },
+    {
+      "Titulo": "The Empire Strikes Back",
+      "TipoShow": "filme",
+      "Ano": 1980,
+      "IdShow": 2,
+      "CodPais": "US",
+      "ListaAtores": [],
+      "ListaTemporadas": null
+    },
+    {
+      "Titulo": "Return of the Jedi",
+      "TipoShow": "filme",
+      "Ano": 1983,
+      "IdShow": 3,
+      "CodPais": "US",
+      "ListaAtores": [],
+      "ListaTemporadas": null
+    },
+    {
+      "Titulo": "Se7en",
+      "TipoShow": "filme",
+      "Ano": 1999,
+      "IdShow": 4,
+      "CodPais": "US",
+      "ListaAtores": [],
+      "ListaTemporadas": null
+    },
+    {
+      "Titulo": "Moneyball",
+      "TipoShow": "filme",
+      "Ano": 2011,
+      "IdShow": 5,
+      "CodPais": "US",
+      "ListaAtores": [],
+      "ListaTemporadas": null
+    },
+    {
+      "Titulo": "Snatch",
+      "TipoShow": "filme",
+      "Ano": 2000,
+      "IdShow": 6,
+      "CodPais": "US",
+      "ListaAtores": [],
+      "ListaTemporadas": null
+    },
+    {
+      "Titulo": "An Inconvenient Truth",
+      "TipoShow": "documentario",
+      "Ano": 2006,
+      "IdShow": 7,
+      "CodPais": "US",
+      "ListaAtores": [],
+      "ListaTemporadas": null
+    },
+    {
+      "Titulo": "Serie",
+      "TipoShow": "serie",
+      "Ano": 1888,
+      "IdShow": 8,
+      "CodPais": "pt",
+      "ListaAtores": [],
+      "ListaTemporadas": [
+        {
+          "Nome": "1",
+          "Numero": 1,
+          "IdTemp": 1,
+          "ListaEpisodios": [
+            {
+              "Nome": "3",
+              "Numero": 1,
+              "IdTemp": 1,
+              "Data": "0001-01-01T00:00:00"
+            },
+            {
+              "Nome": "1",
+              "Numero": 2,
+              "IdTemp": 1,
+              "Data": "0001-01-01T00:00:00"
+            }
+          ]
+        },
+        {
+          "Nome": "4",
+          "Numero": 2,
+          "IdTemp": 2,
+          "ListaEpisodios": [
+            {
+              "Nome": "1",
+              "Numero": 1,
+              "IdTemp": 2,
+              "Data": "0001-01-01T00:00:00"
+            },
+            {
+              "Nome": "2",
+              "Numero": 2,
+              "IdTemp": 2,
+              "Data": "0001-01-01T00:00:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "UtilizadorComums": [
+    {
+      "Telemovel": 964111111,
+      "NumFiscal": 217311118,
+      "Email": "ribosisa@gmail.com",
+      "Nome": "Ricardo",
+      "Id": "ribosisa",
+      "Shows": null,
+      "Alugueres": [
+        {
+          "IdAluguer": 0,
+          "Valor": 1.50,
+          "MetodoPagamento": "Cartao",
+          "Data": "2020-11-16T15:36:50.1931528+00:00",
+          "DataFim": "2020-11-19T15:36:50.1932766+00:00",
+          "ShowAlugado": {
+            "Titulo": "Friends",
+            "TipoShow": "serie",
+            "Ano": 1998,
+            "IdShow": 0,
+            "CodPais": "US",
+            "ListaAtores": [
+              {
+                "Nome": "Brad Pitt",
+                "Genero": "M",
+                "Nickname": "Pitt"
+              }
+            ],
+            "ListaTemporadas": [
+              {
+                "Nome": "Season 1",
+                "Numero": 1,
+                "IdTemp": 1,
+                "ListaEpisodios": [
+                  {
+                    "Nome": "The One Where Monica Gets a Roommate",
+                    "Numero": 1,
+                    "IdTemp": 1,
+                    "Data": "1998-10-29T00:00:00+00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "IdAluguer": 1,
+          "Valor": 2.0,
+          "MetodoPagamento": "Cartao",
+          "Data": "2020-11-16T15:40:17.9883526+00:00",
+          "DataFim": "2020-11-20T15:40:17.9895634+00:00",
+          "ShowAlugado": {
+            "Titulo": "Serie",
+            "TipoShow": "serie",
+            "Ano": 1888,
+            "IdShow": 8,
+            "CodPais": "pt",
+            "ListaAtores": [],
+            "ListaTemporadas": [
+              {
+                "Nome": "1",
+                "Numero": 1,
+                "IdTemp": 1,
+                "ListaEpisodios": [
+                  {
+                    "Nome": "3",
+                    "Numero": 1,
+                    "IdTemp": 1,
+                    "Data": "0001-01-01T00:00:00"
+                  },
+                  {
+                    "Nome": "1",
+                    "Numero": 2,
+                    "IdTemp": 1,
+                    "Data": "0001-01-01T00:00:00"
+                  }
+                ]
+              },
+              {
+                "Nome": "4",
+                "Numero": 2,
+                "IdTemp": 2,
+                "ListaEpisodios": [
+                  {
+                    "Nome": "1",
+                    "Numero": 1,
+                    "IdTemp": 2,
+                    "Data": "0001-01-01T00:00:00"
+                  },
+                  {
+                    "Nome": "2",
+                    "Numero": 2,
+                    "IdTemp": 2,
+                    "Data": "0001-01-01T00:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "ListadeAvaliacao": [],
+      "CartaoCredito": null
+    }
+  ],
+  "ListaAtoresGeral": [
+    {
+      "Nome": "Brad Pitt",
+      "Genero": "M",
+      "Nickname": "Pitt"
+    }
+  ],
+  "Precos": [
+    {
+      "IdPreco": 0,
+      "Preco": 0.5,
+      "DataInicio": "2020-11-16T15:36:50.1372295+00:00",
+      "DataFim": "9999-12-31T23:59:59.9999999",
+      "PeriodoDias": 1,
+      "TipoShow": "serie"
+    },
+    {
+      "IdPreco": 1,
+      "Preco": 1,
+      "DataInicio": "2020-11-16T15:36:50.1830512+00:00",
+      "DataFim": "9999-12-31T23:59:59.9999999",
+      "PeriodoDias": 1,
+      "TipoShow": "filme"
+    },
+    {
+      "IdPreco": 2,
+      "Preco": 1,
+      "DataInicio": "2020-11-16T15:36:50.1831012+00:00",
+      "DataFim": "9999-12-31T23:59:59.9999999",
+      "PeriodoDias": 3,
+      "TipoShow": "documentario"
+    }
+  ]
+}
